@@ -1,0 +1,1 @@
+# STGC-NeRF
